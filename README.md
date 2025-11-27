@@ -17,7 +17,7 @@ The model learns the continuous-time chemical dynamics ($d\mathbf{y}/dt$) and in
 ## Repository Structure
 * `notebooks/`: Jupyter notebooks for the 4-phase pipeline (Generation, Preprocessing, Training, Eval).
 * `data/`: Contains the chemical mechanism and normalization parameters.
-* `models/`: Trained PyTorch model weights.
+* `model weights/`: Trained PyTorch model weights.
 
 ## Usage
 
