@@ -48,7 +48,7 @@ The model accurately captures the ignition delay and species evolution for unsee
 
 | Temperature Profile | Species Evolution |
 |:---:|:---:|
-| <img src="images/temp_comparison.png" width="400"> | <img src="images/species_comparison.png" width="400"> |
+| <img src="readme_images/temp_comparison.png" width="400"> | <img src="readme_images/species_comparison.png" width="400"> |
 *(Comparisons of Ground Truth Cantera (Solid) vs. ChemNODE Prediction (Dashed))*
 
 ### 2. Quantitative Metrics
